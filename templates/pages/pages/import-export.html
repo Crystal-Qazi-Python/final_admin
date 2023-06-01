@@ -1,0 +1,170 @@
+{% extends "partials/base.html" %}
+{% block title %}Starter Page{% endblock title %}
+{% block extra_css %}
+{% endblock extra_css %}
+{% block content %}
+<!-- ============================================================== -->
+<!-- Start right Content here -->
+<!-- ============================================================== -->
+
+    <div class="main-content">
+    
+    <div class="page-content">
+        <div class="container-fluid">
+
+            <!-- start page title -->
+
+            <div class="row">
+                <div class="col-12">
+                    <div class="page-title-box d-sm-flex align-items-center justify-content-between">
+                        <h4 class="mb-sm-0">Setup</h4>
+
+                        <div class="page-title-right">
+                            <ol class="breadcrumb m-0">
+                                <li class="breadcrumb-item"><a href="javascript: void(0);">Pages</a></li>
+                                <li class="breadcrumb-item active">Setup</li>
+                            </ol>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+
+            {% with messages = get_flashed_messages(with_categories, category_filter) %}
+            {% if messages %}
+            {% for message in messages %}
+            <div class="alert alert-success alert-top-border alert-dismissible fade show" role="alert">
+                <i
+                    class="ri-notification-off-line me-3 align-middle fs-16 text-success"></i><strong>{{category}}{{message}}</strong>
+                <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+            </div>
+
+            {% endfor %}
+
+
+            {% endif %}
+            {% endwith %}
+
+
+            <!-- end page title -->
+            <div class="row">
+
+                <!-- import card -->
+                <div class="col-sm-12 col-md-3 col-lg-3">
+                    <div class="card  card-height-100" style="max-width: 22rem;">
+                        <div class="alert alert-warning border-0 rounded-top rounded-0 m-0 d-flex align-items-center"
+                            role="alert">
+                            <div class="flex-grow-1 text-truncate h3 text-reset">
+                                Import
+                            </div>
+                        </div>
+                        <div class="card-body d-flex">
+                            <div class="flex-shrink-0">
+                                <div class="avatar-md me-3">
+                                    <span class="avatar-title bg-soft-danger rounded-circle fs-1">
+                                        <i class="mdi mdi-database-import text-danger"></i>
+                                    </span>
+                                </div>
+                            </div>
+                            <p class="fs-16 lh-base">Import CSV file into <span class="fw-semibold">Database</span>,
+                                Export Sample data for CSV format replace your data into Exported data and leave blank
+                                ID field <i class="mdi mdi-arrow-right"></i></p>
+                        </div>
+                        <div class="card-footer bg-transparent border-success">
+                            <form action="/import" enctype="multipart/form-data" method="POST">
+                                <div class="d-flex">
+                                    <input class="btn btn-ghost-info" id="formFileSm" type="file" name="file">
+                                    <input class="btn btn-secondary" type="submit" value="Upload">
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+                <!-- end of import card -->
+
+                <!-- export card -->
+                <div class="col-sm-12 col-md-3 col-lg-3">
+                    <div class="card  card-height-100" style="max-width: 22rem;">
+                        <div class="alert alert-warning border-0 rounded-top rounded-0 m-0 d-flex align-items-center"
+                            role="alert">
+                            <div class="flex-grow-1 text-truncate h3 text-reset">
+                                Export
+                            </div>
+                        </div>
+                        <div class="card-body d-flex">
+                            <div class="flex-shrink-0">
+                                <div class="avatar-md me-3">
+                                    <span class="avatar-title bg-soft-danger rounded-circle fs-1">
+                                        <i class="mdi mdi-database-import text-danger"></i>
+                                    </span>
+                                </div>
+                            </div>
+                            <p class="fs-16 lh-base">Export CSV file from <span class="fw-semibold">DataBase</span>, and
+                                use it as your need <br><i class="mdi mdi-arrow-right"></i></p>
+                        </div>
+                        <div class="card-footer bg-transparent border-success">
+                        
+                            <div class="float-start">     
+                                <form action="/export" enctype="multipart/form-data" method="POST">                      
+                                <input type="submit" class="btn btn-secondary float-start" value="Export"  />                              
+                            </form>
+                            </div>                        
+                           
+   
+                        </div>
+                    </div>
+                    <!-- end of export card -->
+                </div>
+
+
+
+                <!-- reset card -->
+                <div class="col-sm-12 col-md-3 col-lg-3">
+                    <div class="card  card-height-100" style="max-width: 22rem;">
+                        <div class="alert alert-warning border-0 rounded-top rounded-0 m-0 d-flex align-items-center"
+                            role="alert">
+                            <div class="flex-grow-1 text-truncate h3 text-reset">
+                                Import
+                            </div>
+                        </div>
+                        <div class="card-body d-flex">
+                            <div class="flex-shrink-0">
+                                <div class="avatar-md me-3">
+                                    <span class="avatar-title bg-soft-danger rounded-circle fs-1">
+                                        <i class="mdi mdi-database-import text-danger"></i>
+                                    </span>
+                                </div>
+                            </div>
+                            <p class="fs-16 lh-base">This Option will <span class="fw-semibold">Reset
+                                    Database and Delete all Records</span>, in Database. Use it with caution
+                                <br><i class="mdi mdi-arrow-right"></i>
+                            </p>
+                        </div>
+                        <div class="card-footer bg-transparent border-success">
+                            <form action="/import" enctype="multipart/form-data" method="POST">
+                                <div class="d-flex">
+
+                                    <a href="/drop" class="btn btn-secondary">Reset / Drop</a>
+
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+                <!-- end of reset card -->
+            </div>
+        </div>
+            {{test}}
+        <!-- container-fluid -->
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+
+
+    </div>
+    <!-- End Page-content -->
+
+    {% block footer %}
+    {% include "partials/footer.html" %}
+    {% endblock footer %}
+</div>
+<!-- end main content-->
+{% endblock content %}

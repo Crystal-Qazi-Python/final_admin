@@ -1,0 +1,96 @@
+
+{% block sidebar %}
+        <!-- ========== App Menu ========== -->
+        <div class="app-menu navbar-menu" >
+            <!-- LOGO -->
+            <div class="navbar-brand-box">
+                <!-- Dark Logo-->
+                <a href="index.html" class="logo logo-dark">
+                    <span class="logo-sm">
+                        <img src="static/images/logo-sm.png" alt="" height="22">
+                    </span>
+                    <span class="logo-lg">
+                        <img src="static/images/logo-dark.png" alt="" height="17">
+                    </span>
+                </a>
+                <!-- Light Logo-->
+                <a href="index.html" class="logo logo-light">
+                    <span class="logo-sm">
+                        <img src="static/images/logo-sm.png" alt="" height="22">
+                    </span>
+                    <span class="logo-lg">
+                        <img src="static/images/logo-light.png" alt="" height="17">
+                    </span>
+                </a>
+                <button type="button" class="btn btn-sm p-0 fs-20 header-item float-end btn-vertical-sm-hover" id="vertical-hover">
+                    <i class="ri-record-circle-line"></i>
+                </button>
+            </div>
+
+            <div id="scrollbar">
+                <div class="container-fluid">
+
+                    <div id="two-column-menu">
+                    </div>
+                    <ul class="navbar-nav" id="navbar-nav">
+                        <li class="menu-title"><span data-key="t-menu">Menu</span></li>
+                        <li class="nav-item ">
+                            <a class="nav-link menu-link" href="#sidebarDashboards" data-bs-toggle="collapse" role="button" aria-expanded="False" aria-controls="sidebarDashboards">
+                                <i class="ri-dashboard-2-line"></i> <span data-key="t-dashboard">Dashboards</span>
+                            </a>
+                            <div class="collapse menu-dropdown show" id="sidebarDashboards">
+                                <ul class="nav nav-sm flex-column">
+                                    <li class="nav-item">
+                                        <a href="dashboard-analytics.html" class="nav-link " data-key="t-adddata"> Add Data </a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a href="/" class="nav-link active open" data-key="t-directory"> Directory </a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <!-- <a href="index.html" class="nav-link" data-key="t-ecommerce"> Ecommerce </a> -->
+                                    </li>
+                                  
+                            </div>
+                        </li> <!-- end Dashboard Menu -->
+
+                        <li class="nav-item">
+                            <a class="nav-link menu-link" href="#sidebarSetup" data-bs-toggle="collapse" role="button" aria-expanded="false" aria-controls="sidebarSetup">
+                                <i class="ri-dashboard-2-line"></i> <span data-key="t-setup">Setup</span>
+                            </a>
+                            <div class="collapse menu-dropdown" id="sidebarSetup">
+                                <ul class="nav nav-sm flex-column">
+                                    
+                                    <li class="nav-item">
+                                        <a href="/import-export" class="nav-link" data-key="t-importexport"> Import Export </a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a href="dashboard-projects.html" class="nav-link"> <span data-key="t-todo">TOD</span><span class="badge badge-pill bg-success">New </span></a> 
+                                    </li>
+                                   
+                                </ul>
+                            </div>
+                          
+                        
+               
+
+                        
+                    </ul>
+                </div>
+                <!-- Sidebar -->
+            </div>
+
+            <div class="sidebar-background"></div>
+        </div>
+        <!-- Left Sidebar End -->
+        <!-- Vertical Overlay-->
+        <div class="vertical-overlay"></div>
+
+        <script type="text/javascript">
+            $(document).ready(function () {
+                $('#topnav-hamburger-icon').on('click', function () {
+                    $('#app-menu').toggleClass('active');
+                });
+            });
+        </script>
+{% endblock sidebar %}
+    

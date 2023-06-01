@@ -1,0 +1,53 @@
+---
+ meta-data:
+    site-name1: "Phone"
+    site-name2: "Directory"
+    app-name: "Phone Directory"
+    description : "HIS (Hospital Information System) is a comprehensive software system designed to manage various aspects of hospital operations."
+    Developed-by: "Information Technology"
+    Button1:
+        name: "Showcase (HIS)"
+        url: http://showcase.lnh.org/
+    index_route: '\\pc-1643\E$/Shared_folder/files/Help.md'
+    page_route: '\\pc-1643\E$/Shared_folder/files/'
+    # index_route: '//lnh-ustore/IT Departmental Data/DEO Folder/M Azeem/Documentation/files/(OP) HIS.md'
+    # page_route: '//lnh-ustore/IT Departmental Data/DEO Folder/M Azeem/Documentation/files/'
+
+ menu:
+   - Contact US
+   - About Us
+   - Cheat Sheet
+
+ menu1:
+   - EMR
+   - ( IP ) HIS
+   - ( IP ) HIS Troubleshoot
+
+ menu2:
+   - (OP) HIS
+   - (OP) HIS Troubleshoot
+
+ menu3:
+    - Authentication Server
+    - GRS
+    - Cash Register
+    - User Role
+    - test 3
+ server-local:
+    debug: True
+    host: "127.0.0.1"
+    port: 4243
+    ssl_context: ('SSL\Qazi.crt','SSL\Qazi.key')
+
+ server-intra:
+    debug: True
+    host: "0.0.0.0"
+    port: 4243
+    ssl_context: ('SSL\Qazi.crt','SSL\Qazi.key')
+  
+ server:
+    debug: True
+    host: "0.0.0.0"
+    port: 4243
+    ssl_context: ('SSL\Qazi.crt','SSL\Qazi.key')
+

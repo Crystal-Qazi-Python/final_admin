@@ -1,0 +1,761 @@
+id,name,department,designation,ext
+1,Mr. Asif Bhojani,Academic Council,Administrative Officer - Academic Council,2290 2405
+2,,Accident And Emergency,"Emergency, Trauma Call",2310
+3,,Accident And Emergency,Emergency Cardiac Bay,2445
+4,,Accident And Emergency,Emergency Pharmacy,2458
+5,,Accident And Emergency,Emergency Cot,2459
+6,,Accident And Emergency,"Hod, Assistant Manager Emergency",2545
+7,,Accident And Emergency,"Emergency, Information / Reception",2745
+8,,Accident And Emergency,"Emergency, Ward Coordinator",2760
+9,,Accident And Emergency,Paediatrices Emergency,2789
+10,,Accident And Emergency,"Emergency, Secretary's Room",2845
+11,,Accident And Emergency,Emergency Acute Bay,2245  2876
+12,,Accident And Emergency,Emergency Female Bay,2345  2878
+13,,Accident And Emergency,Emergency Male Bay,2645  2906
+14,,Adminstration Office,Emergency Admissions,2262
+15,,Adminstration Office,S.W.A.C Information,2321
+16,,Adminstration Office,O.T Information,2633
+17,,Adminstration Office,S.W.A.C Reception 1,2704
+18,,Adminstration Office,S.W.A.C Reception 2,2711
+19,,Adminstration Office,Admission Cash Counter,2802
+20,,Adminstration Office,Admission Office,2389  2712
+21,,Adminstration Office,Main Information,2521  2221
+22,,Adminstration Office,Old Opd Block Reception,2951  2806
+23,,Adminstrative ,Public Relations Dept,2234
+24,,Adminstrative ,Inventory Dept,2442
+25,,Adminstrative ,Security Dept,2091  2614
+26,,Adminstrative ,Hims Dept,2432 2864 2318
+27,,Adminstrative ,Opd Services Dept,2714 2713 2576
+28,,Adminstrative ,"Office Services, Transport, Horticulture, Adminstrations (Includes, Hostels,Mess, Baby Day Care, Dispatch, Photostat, Cyclostyle, Lnh Mosque, Guest House, Housekeeping, (Non Clinical), Record Room, Return To Store Dept)",2799  2220
+29,,Adminstrative ,Hr Dept,2866  2679
+30,Ms. Shazia,Admission Office,Information Officer,2221
+31,,Admission Office,N/A,2389
+32,,Admission Office,N/A,2712
+33,,Admission Office,N/A,2811
+34,Inventory,Ahud/Asad/Hina,,3073
+35,Mr. Asif Bahadur,Anasthesia Department,Secretary,2548
+36,,Anatomy Dept,Professor,2003
+37,Asim,Anatomy Dept,Technician's Room,2011
+38,,Anatomy Dept,Lecturer's Room,2014
+39,,Anatomy Dept,Associate Professor,2020
+40,Hina.Kanwal,Audit,,2208
+41,Kashifulhaq / Khalid Mehmood / Noman Akhter,Audit,,2408
+42,Shahnawaz Damji / Syed Asim,Audit Dept,"Assistant Manager, System Audit, Deupty Manager, Finance Activities",2146
+43,,Audit Dept,"Assistant Manager, Internal Audit",2308
+44,Owais.A,Audit Dept,"Auditor, Basement Store",2409
+45,Mubarak.Ali,Audit Dept,"Deputy Manager, Adminstrative Activities",2508
+46,,Audit Dept,Chief Internal Auditor,2608
+47,,Audit Dept,"Auditor, Private Billing",2885
+48,,Audit Dept,Audit Office,2208  2408
+49,,Audit Dept,Chief Internal Auditor,2608  2540
+50,,Auditorium And Academic Council,Academic Council,2405  2290
+51,,Auditorium And Academic Council,Auditorium ,2592  2578
+52,,Billing And Cash Dept,Cash Counter,2217
+53,,Billing And Cash Dept,"Manager, Corporate Billing",2250
+54,Farhan.Raza / Haider Ali / Shafi Alam,Billing And Cash Dept,Cash Office,2305
+55,,Billing And Cash Dept,Senior Manager Corporate Billing,2604
+56,,Billing And Cash Dept,Assistant Manager Private Billing,2664
+57,,Billing And Cash Dept,Executive Running Bill Dept,2667
+58,,Billing And Cash Dept,Corporate Recovery Office,2852
+59,,Billing And Cash Dept,Cash Reception Incharge,2905
+60,,Billing And Cash Dept,Op Billing Office,2317  2759
+61,,Billing And Cash Dept,Cpfu Office,2361  2728
+62,,Billing And Cash Dept,Billing Officer,2411  2664
+63,,Billing And Cash Dept,Corporate Billing Office,2584  2412
+64,,Billing And Cash Dept,"Incharge Op, Billing",2818  2873
+65,Mr. Noman,Billing Dept.,Senior Officer - Billing,2524
+66,,Bio Medical Engineering Dept,R.O Plant Solution Room,2644
+67,,Bio Medical Engineering Dept,R.O Plant,2654
+68,,Bio Medical Engineering Dept,Cylinder Room,2803
+69,,Bio Medical Engineering Dept,Deputy Manager | Bio Medical Engineering,2834
+70,,Bio Medical Engineering Dept,B.M.E Engineer,2417  2629
+71,,Biochemistry Dept,Technician's Room,2009
+72,,Biochemistry Dept,Lecturer's Room,2012
+73,,Biochemistry Dept,Bio Research Room,2648
+74,,Biochemistry Dept,Associate Professor,2007  2024
+75,Ikhlaq Mansoori,Budgeting & Costing,"Senior Manager, Budgeting And Costing",2315
+76,Rahat.Rohilla,Budgeting And Costing Dept,"Assistant Manager, Budgeting And Costing",2824
+77,Hafiz,Cardiology Department,Co-Ordinator,2360
+78,,Cardiology Dept,Cardiology Dept,2948  2399
+79,,Cardiothoracic Dept,Cardiothoracic Dept,2583
+80,Ashraf,Chief Internal Auditor,Secretary To Chief Internal Auditor,2540
+81,,College Of Nursing,"Reception, College Of Nursing",2079
+82,,College Of Nursing,Principal's Office,2150
+83,,College Of Nursing,"Library, College Of Nursing",2343
+84,,College Of Nursing,"Skills Development Laboratory, College Of Nursing",2344
+85,,College Of Nursing,Administrator College Of Nursing,2639
+86,,College Of Nursing,Teacher's Faculty,2485  2857
+87,,College Of Nursing,Teacher's Faculty,2952  2251
+88,,Community Medicine Dept,Professor (Hod),2016
+89,Sohrab Soomro,Community Medicine Dept,Laboratory,2071
+90,,Community Medicine Dept,Lecturer's Room,2075
+91,,Community Medicine Dept,Associate Professor,2843
+92,Zameer,Company Billing,"Deputy Manager, Corporate Billing",2204
+93,Zafar-Ul-Islam,"Controllers, Secretary Hospital, ",Hod / Financial Controller,2140
+94,Muzaffar ,Corporate Billing,,2412
+95,Fahad Khan,Corporate Billing,,2584
+96,Salman,Da Office,Secretary - Da,2415
+97,Shoeb/ Riaz,Dental,,2278 3265
+98,,Dental And Maxillofacial Dept,Dental And Maxillofacial Dept,2842  2278
+99,,Dermatology Dept,Dermatology Dept,2577  2447
+100,,Diabetic And Endo Dept,Diabetic And Endo Dept,2782  2447
+101,,Director Adminstration,Director Adminstration,2994
+102,,Director Adminstration,Secretary To Director Adminstration,2210  2415
+103,,Director Finance,Director Finance,2300
+104,,Director Finance,Secretary To Director Finance,2651
+105,,Director Hr,Director Hr,2866
+106,,Doctor's Mess,Male Side,2056
+107,,Doctor's Mess,Senior Doctor's Room,2246
+108,,Doctor's Mess,Faculty Area,2381
+109,,Doctor's Mess,Female Side,2677
+110,,Doctor's Mess,"College Of Nursing, Teacher's Room",2857
+111,Dr. Shama Abida,Dpic- Drug And Poison Information Center,N/A,2758
+112,,Duty Adminstrator,Duty Adminstrator,2435
+113,,Electrical  Engineering Dept,Electrical Compliants,2222
+114,,Electrical  Engineering Dept,Senior Manager | Electrical  And Air-Conditing,2298
+115,,Electrical  Engineering Dept,Hsd Generator | Sub Station,2304
+116,,Electrical  Engineering Dept, Air-Conditing Dept Workshop (Hvac),2322
+117,,Electrical  Engineering Dept,Lt Generator Gas | Power House,2341
+118,,Electrical  Engineering Dept,Electrical Store,2618
+119,,Electrical  Engineering Dept,Senior Supervisior | Electrical Engineering,2804
+120,,Electrical  Engineering Dept,Incharge Hvacr | Air Conditioning / Engineering Electronic Lab,2825
+121,,Electrical  Engineering Dept,"Chiller, Plant Room, 5th Floor",2836
+122,,Electrical  Engineering Dept,Lift Room / Supervisior Lift's,2883
+123,,Electrical  Engineering Dept,Incharge | Electrical Engineering,2444  2326
+124,,Electrical  Engineering Dept,"Chiller, 2nd Floor",2808  2809
+125,,Engineering Dept,"Doctor's Mess, Supervisior",2149
+126,Shahzad /Pervaiz,Engineering Dept,Fabrication Dept | Maintenance,2249
+127,,Engineering Dept,Plumbering Dept,2254
+128,,Engineering Dept,Care Taker's Office | Maintenance,2289
+129,,Engineering Dept,"New Building, Construction Office",2302
+130,Furqan Ali,Engineering Dept,Civil Engineering Dept,2403
+131,,Engineering Dept,Maintenance Bill Clearance,2484
+132,Mr. Ali,Engineering Dept,"Assistant Manager, Civil Engineering",2520
+133,Mr. M. Nawaz,Engineering Dept,Senior Manager | Civil Engineering,2553
+134,,Engineering Dept,Carpenter's Workshop | Maintenance,2620
+135,,Engineering Dept,Colouring Dept,2719
+136,,Executive Ward,"Adminstrator, Executive Ward",2718
+137,,Executive Ward,Coordinator's Room,2774
+138,,Executive Ward,Executive Ward 1,2454  2455
+139,Reception,Female Medical Ward,N/A,2232
+140,Reception,Female Medical Ward,N/A,2332
+141,Sami.Khan,Finance,,2206
+142,Ejaz / Owais Aqeel,Finance,,2506
+143,Mamir,Finance,,2840
+144,Alisaleemi / Syed Asghar,Finance,,2871
+145,Muhammad.Ilyas / M Zahid,Finance Dept,Finance Dept,2309
+146,,Finance Dept,External Auditor,2369
+147,Ikram.Elahi,Finance Dept,Deputy Manager Account,2404
+148,,Finance Dept,"Finance Dept, Capex Information",2438
+149,Shahid.Ali,Finance Dept,Deputy Manager Finance,2510
+150,Muhammad.Zubair / Nasarullah,Finance Dept,"Finance Dept, Pf/Gf, Staff Loan Information",2600
+151,M.Siddiq / M Yasir,Finance Dept,Senior Manager Account,2606
+152,,Finance Dept,"Finance Dept, Payment Cheque Inquiry",2840  2506
+153,,Finance Dept,Finance Dept,2871  2206
+154,,Food Services And Nutrition Dept,"Pantry Services, Special Ward",2063
+155,,Food Services And Nutrition Dept,Cafeteria (B),2282
+156,,Food Services And Nutrition Dept,"Pantry Services, Executive Ward",2293
+157,,Food Services And Nutrition Dept,Snack Bar Near Executive Ward,2382
+158,,Food Services And Nutrition Dept,"Gift Shop, Executive Ward",2457
+159,,Food Services And Nutrition Dept,Snack Bar Near Special Ward,2490
+160,,Food Services And Nutrition Dept,Tuck Shop Near Emergency,2610
+161,,Food Services And Nutrition Dept,Faculty Lounge,2643
+162,,Food Services And Nutrition Dept,"Food Services Dept, Chaudary Kitchen",2796
+163,,Food Services And Nutrition Dept,Nursing Hostel Canteen,2872
+164,,Food Services And Nutrition Dept,"Food Services Dept, Chaudary Kitchen",2423  2372
+165,,Food Services And Nutrition Dept,Chief Dietitian,2787  2846
+166,,Forensic Medicine Dept,Professor (Hod),2021
+167,,Forensic Medicine Dept,Laboratory,2074
+168,,Gastroenterology Dept,Gastroenterology Dept,2549  2350
+169,Dr. Lubna Kamani,Gastroentology Department,Consultant Gastroentologist,2092
+170,Dr. Lubna Kamani,Gastroentology Department,Consultant Gastroentologist,2350
+171,,General Medicine Dept,General Medicine Dept,2257  2447
+172,,General Surgery Dept,General Surgery Dept,2862  2270
+173,,General Surgery Ward,General Surgery Consultant's Room (Ward),2498
+174,,General Surgery Ward,Coordinator's Room,2590
+175,,General Surgery Ward,"Female Doctor Room, General Surgery",2650
+176,,General Surgery Ward,"Male Doctor Room, General Surgery",2684
+177,,General Surgery Ward,Male Surgical Ward,2861
+178,Aliakber Nizar,General Surgery Ward,Secretary General Surgery,2862
+179,,General Surgery Ward,Female Surgical Ward,2335  2235
+180,,Guest House,Guest House,2621
+181,,Guest House,Guest House,2623
+182,Mr. Usman Hingoro,Gynea & Obs,Secretary- Gynea & Obs.,2957
+183,,Hall - C,Hall - C,2037
+184,,Hall - C,Hall - C,2497
+185,,Health Care Education Dept,Director / Hod / Health Care Professional Education ,2507
+186,,Health Care Education Dept,"Information Desk, Health Care Education Dept",2290  2405
+187,,Health Care Education Dept,Medical Educationist,2515  2832
+188,,Hims Dept,Assistant Manager Hims Dept,2432  2318
+189,,Hims Dept,Hims Dept,2864  2089
+190,,Hina,,2452 3073
+191,,Histopathology Dept,Histopathology Dept,2076  2793
+192,,House Keeping Dept,House Keeping Office,2239
+193,,House Keeping Dept,House Keeping Office (Non-Clinical),2303
+194,,House Keeping Dept,House Keeping Plant,2311
+195,,House Keeping Dept,Senior Manger House Keeping (Clinical),2516
+196,,House Keeping Dept,Fumigation Dept,2707
+197,,House Keeping Dept,Manager Adminstration House Keeping And Food Services (Non-Clinical),2799
+198,,House Keeping Dept,Laundary,2478  2378
+199,,House Keeping Dept,House Keeping Control Room,2565  2265
+200,Ms. Shireen,Hr-Department,Hr Officer,2029
+201,Mr. Faisal,Human Resource Dept,"Assistant Manager, Records",2030
+202,,Human Resource Dept,Payroll,2207
+203,,Human Resource Dept,"Assistant Manager, Payroll Dept",2219
+204,,Human Resource Dept,"Assistant Manager, Hr (Employee Relations)",2413
+205,Mr.Yasir,Human Resource Dept,Assistant Manager Staffing,2479
+206,,Human Resource Dept,"Senior Hr Officer, Staffing",2632
+207,,Human Resource Dept,Time Office (Nursing),2669
+208,,Human Resource Dept,Manager Staffing,2678
+209,,Human Resource Dept,Secretary To Director Hr,2679
+210,,Human Resource Dept,Manager Employee Relations,2691
+211,,Human Resource Dept,Hr Officer,2029  2453
+212,,Human Resource Dept,Manager Payroll,2307  2207
+213,M.Shakir / Uzair Zafar,Income Tax Dept,"Assistant Manager, Taxation",2826
+214,,Infection Control Dept,Infection Control Dept,2720
+215,,Information Technology,Hardware Engineering | I.T Service Center,2058
+216,Mr. Adnan Hameed / Umair Akhter,Information Technology,Assistant Manager,2597
+217,,Information Technology,Manager Software Development,2801
+218,,Information Technology,Manager I.T / Infra-Structure And Network,2820
+219,,Information Technology,Manager System Deployment And Services,2823
+220,DEO,Information Technology,Application Support Cordinator,2869
+221,,Information Technology,Manager I.T Projects,2882
+222,,Information Technology,I.T Complaint's Help Desk,2214  2996
+223,Mr. Sajid Ali Khan,Information Technology,Assistant Manager - It,2054
+224,Ms. Taiyba,Information Technology,Front Desk Officer,2214
+225,Mr. Adnan Hameed / Umair Akhter,Information Technology,System Administrator,2414
+226,,Information Technology,Hod It-Department,2514
+227,Ihsan,Inventory,,3044
+228,Sahar,Inventory Dept,,2040
+229,Touseef,Inventory Dept,,2096
+230,Tasleem,Inventory Dept,,3148
+231,,Inventory Dept,Good Receiver Inventory Officer Ii | General Store,2215
+232,Faisal.Hafeez  ,Inventory Dept,Assistant Manager | Fixed Assets,2491
+233,Altaf.Hussain / Ashrafuddin,Inventory Dept,Inventory Officer Ii / Section Supervisior | Rubber Goods,2519
+234,Suhail,Inventory Dept,Inventory Officer Ii |  Pharmacy Store,2527
+235,Inayat,Inventory Dept,Good Receiver / Section Supervisior | Medical Miscellaneous,2619
+236,Iftkhar.Uddin / Jamshaid / Naveed Hasan,Inventory Dept,Incharge / Ev Officer And Assistant | Fixed Assets,2625
+237,Maria.Jalees   / M Shoaib / Dilawar Khan,Inventory Dept,Senior Inventory Officer | Pharmacy Techinician | Pharmacy Store,2701
+238,Muhammad.Samad / Khurram Niazi,Inventory Dept,Section Supervisior / Inventory Coordinator | Document Handling,2702
+239,Khurram.Hassan / Umair Shoukat,Inventory Dept,Manager Inventory,2893
+240,,Inventory Dept,Assistant Manager | Medical And General Store,2218  2491
+241,,K-Electric Camp Office,K-Electric Camp Office,2907  2349
+242,,Lab Services,Biochemist,2033
+243,,Lab Services,"Senior Registrar's Room, Hematology",2034
+244,,Lab Services,Parasitology Laboratory,2223
+245,,Lab Services,Pathology Conference Room,2248
+246,,Lab Services,"Hod, Molecular Pathology",2255
+247,,Lab Services,"Consultant, Histopathology Laboratory",2269
+248,,Lab Services,"Microbiology Laboratory, Bacteriology",2272
+249,,Lab Services,"Resident Room, Histopathology Laboratory",2471
+250,,Lab Services,"Senior Registrar's Room, Histopathology Laboratory",2472
+251,,Lab Services,Serology,2555
+252,,Lab Services,"Microbiology Laboratory, Reporting",2570
+253,,Lab Services,Blood Bank,2571
+254,,Lab Services,"Microbiology Laboratory, Senior Room",2572
+255,,Lab Services,Consultant's Room,2574
+256,,Lab Services,"Hod, Hematology",2581
+257,,Lab Services,"Hod, Biochemistry",2595
+258,,Lab Services,"Hod, Microbiology",2775
+259,,Lab Services,Molecular Pathology  Laboratory,2778
+260,,Lab Services,Histopathology Reporting,2793
+261,,Lab Services,"Lab Collection Point, Old Opd Block",2805
+262,,Lab Services,Emergency Lab Counter,2813
+263,,Lab Services,Histopathology Consultant,2937
+264,,Lab Services,Inpatient Lab Services,2273  2699
+265,,Lab Services,Biochemistry Laboratory,2274  2374
+266,,Lab Services,Hematology Laboratory,2373  2271
+267,,Lab Services,"Manager / Assistant Manager, Lab Services",2375  2609
+268,,Lab Services,Blood Bank,2525  2575
+269,,Lab Services,Out Patient Lab Services,2573  2585
+270,Main Lab,Laboratory,N/A,2573
+271,Aijaz.Uddin / Ambreen,Legal And Industrial Relations (Ir) Dept,,2764
+272,,Legal And Industrial Relations (Ir) Dept,Ledger Office,2860  2050
+273,,Legal And Industrial Relations (Ir) Dept,Ledger Office,2949  2764
+274,,Legal And Industrial Relations (Ir) Dept,Ir Office,2401
+275,,Legal And Industrial Relations (Ir) Dept,Manager Legal And Industrial Relations,2410
+276,Absar.Ahmed / Wasim Abbas,Legal And Industrial Relations (Ir) Dept,,2211
+277,,Liaquat National Hospital Residents,Dr. Mannan | Consultant Medicine Dept,2370
+278,,Liaquat National Hospital Residents,Mr. Iftikhar | Senior Officer Inventory,2407
+279,,Liaquat National Hospital Residents,Mrs. Roselean Joseph | College Of Nursing,2426
+280,,Liaquat National Hospital Residents,Mr. Rehmat | Opd Attendant,2495
+281,,Liaquat National Hospital Residents,Mr. A Ditta | Security Guard,2513
+282,,Liaquat National Hospital Residents,Ms. Kehkashan | Programme Director R.S.D.C,2541
+283,,Liaquat National Hospital Residents,Mr. Mahroof | Lab Services,2546
+284,,Liaquat National Hospital Residents,Ms. Kiran Akhtar | Senior Manager Opd And Radiology,2552
+285,,Liaquat National Hospital Residents,Mr. Nadeem Raja | Manager Security,2613
+286,,Liaquat National Hospital Residents,Mr. Shafi | Care Taker | Guest House,2627
+287,,Liaquat National Hospital Residents,Mr. Hafeez | Office Assistant Medical Diector's Office,2634
+288,,Liaquat National Hospital Residents,Mrs. Shazia | Staff,2652
+289,,Liaquat National Hospital Residents,Mr. Matlub | Security Guard,2653
+290,,Liaquat National Hospital Residents,Dr. Shagufta Tahir | Consultant Obs And Gynae Dept,2686
+291,,Liaquat National Hospital Residents,Sister Daisy | Nursing,2729
+292,,Liaquat National Hospital Residents,Sister Samina | Nursing,2772
+293,,Liaquat National Hospital Residents,Dr. Faisal Siddiqui | Consultant G.S Dept,2776
+294,,Liaquat National Hospital Residents,Sr. General | Surgery Doctor's Mess,2795
+295,,Liaquat National Hospital Residents,Mr. Saeed | Plumber,2807
+296,,Liaquat National Hospital Residents,Mr. Basheer Shah | Senior Manager Housekeeping,2849
+297,,Liaquat National Hospital Residents,Mrs. Fouzia Waheed | Adminstration Officer Food Services,2896
+298,,Liaquat National Hospital Residents,Brig. Dr. Syed Naseem Ahmed | Director Administration,2292  2392
+299,,Liaquat National Medical College,"Secretary To Dean, Lnmc",2001
+300,,Liaquat National Medical College,"Principal / Dean, Lnmc And Director Faculty Of Health Science, Lnh And Lnmc",2002
+301,,Liaquat National Medical College,Controller Academic Adminstration And Research Training  (Aa And Rt),2894
+302,Mr. Kamran ,Library,Manager Library,2008
+303,Ms. Farah Zaiba,Library,Librarian,2080
+304,,Library,Library,2008  2237
+305,Almas,Lnmc Adminstration,,2078
+306,,Lnmc Adminstration,Student Affairs,2931
+307,,Lnmc Adminstration,Manager Lnmc,2933
+308,Naveed Shmim,Lnmc Adminstration,"Assistant Manager, Finance, Lnmc",2942
+309,Reception,Male Medical Ward,N/A,2230
+310,,Marketing And Media Affair Dept,"Manager, Marketing, Media Affair And Outreach Services",2727
+311,Ms. Sualeha / Ms. Hina,Marketing Department,Marketing Officer - Marketing & Media Affairs,2199
+312,,Maxillofacial Surgery Ward,Coordinator's Room,2693
+313,,Maxillofacial Surgery Ward,Doctor Room Ward,2890
+314,,Maxillofacial Surgery Ward,Maxillofacial Surgery Ward Ent,2662  2665
+315,Mr. Mohtashim,Md Office,Executive Secretary - Md,2940
+316,General Surgery,Medical And Surgical Opd's,General Surgery Opd,2256
+317,,Medical And Surgical Opd's,Gastroenterology Opd,2267
+318,,Medical And Surgical Opd's,Geriatric Medicine Opd,2277
+319,Diabetic & Endocrine-I,Medical And Surgical Opd's,Diabetic And Endo Reception Opd,2296
+320,,Medical And Surgical Opd's,Cardiology Opd,2299
+321,,Medical And Surgical Opd's,Urology Reception,2356
+322,,Medical And Surgical Opd's,Gynae And Obs Reception Opd,2364
+323,,Medical And Surgical Opd's,Infection Diseases Opd,2396
+324,,Medical And Surgical Opd's,Psychology Consultant's Room ,2397
+325,,Medical And Surgical Opd's,Cardiology Consultant's Room,2399
+326,,Medical And Surgical Opd's,Rheumatology Reception,2416
+327,,Medical And Surgical Opd's,Paediatrics Consultant's Room ,2463
+328,Paeds,Medical And Surgical Opd's,Paediatrics Reception,2474
+329,,Medical And Surgical Opd's,Psychology Opd,2476
+330,,Medical And Surgical Opd's,Nephrology Reception Opd,2496
+331,,Medical And Surgical Opd's,Vascular Surgery  Consultant's Room ,2503
+332,,Medical And Surgical Opd's,Dermatology Opd 2,2517
+333,,Medical And Surgical Opd's,Rheumatology Consultant's Room ,2518
+334,Dr. Naveed Uddin Ahmed,Medical And Surgical Opd's,Neuro Medicine Opd,2531
+335,,Medical And Surgical Opd's,General Surgery Consultant's Room,2554
+336,,Medical And Surgical Opd's,Urology Consultant's Room ,2556
+337,,Medical And Surgical Opd's,Dermatology Opd,2577
+338,,Medical And Surgical Opd's,Dietitian,2617
+339,,Medical And Surgical Opd's,Orthopedics Consultant's Room ,2659
+340,,Medical And Surgical Opd's,Dermatology Opd 3,2692
+341,,Medical And Surgical Opd's,Nephrology Consultant's Room,2696
+342,,Medical And Surgical Opd's,Oncology Consultant's Room,2705
+343,,Medical And Surgical Opd's,Gynae And Obs Consultant's Room 2,2709
+344,,Medical And Surgical Opd's,Oncology Reception Opd,2716
+345,,Medical And Surgical Opd's,Anaesthesia Opd,2748
+346,,Medical And Surgical Opd's,Tutorial Room,2784
+347,,Medical And Surgical Opd's,E.N.T Opd  Consultant's Room,2792
+348,,Medical And Surgical Opd's,Paediatrics Psychiatry Opd,2812
+349,,Medical And Surgical Opd's,Ophthalmology Consultant's Room 2,2815
+350,,Medical And Surgical Opd's,Dental And Maxillofacial Consultant's Room,2842
+351,,Medical And Surgical Opd's,Rheumatology Procedure Room,2853
+352,,Medical And Surgical Opd's,Cardio Thoracic Surgery Opd,2867
+353,,Medical And Surgical Opd's,Ophthalmology Consultant's Room 1,2884
+354,,Medical And Surgical Opd's,Orthopedics Opd,2259  2359
+355,,Medical And Surgical Opd's,E.N.T Opd Counter,2263  2363
+356,,Medical And Surgical Opd's,Ophthalmology Opd,2266  2557
+357,,Medical And Surgical Opd's,Paediatrics Medicine Opd,2276  2275
+358,,Medical And Surgical Opd's,Medicine Opd,2387  2257
+359,,Medical And Surgical Opd's,Neuro Surgery Opd,2464  2428
+360,,Medical And Surgical Opd's,Plastic Surgery Opd,2486  2450
+361,,Medical And Surgical Opd's,Dental And Maxillofacial Opd,2710  2278
+362,,Medical And Surgical Opd's,Neuro Surgery Consultant's Room,2717  2706
+363,,Medical And Surgical Opd's,Diabetic And Endo Consultant's Room,2782  2786
+364,,Medical And Surgical Opd's,Paediatrics Surgery Opd,2785  2550
+365,,Medical And Surgical Opd's,Ophthalmology Consultant's Room 3,2854  2939
+366,,Medical And Surgical Opd's,Gastroenterology Opd,2886  2092
+367,,Medical And Surgical Opd's,Breast Opd,2887  2270
+368,Mr. Kashif Ahsan,"Medical College, Student Hostel","Assistant Manager, Academic Administration",2932
+369,,"Medical College, Student Hostel",Second Floor,2057
+370,,"Medical College, Student Hostel",First Floor,2434
+371,,"Medical College, Student Hostel",Third Floor,2451
+372,,Medical Director's Office,"Office Assistant, Medical Director's Office",2400
+373,,Medical Director's Office,Medical Director (Md),2898
+374,,Medical Director's Office,Md's Conference Room,2700  2198
+375,,Medical Director's Office,Executive Assistant To Medical Director,2940  2598
+376,,"Medical, Surgical And Allied Services",Chest Medicine Ward,2225
+377,,"Medical, Surgical And Allied Services","General Medicine Coordinator's Room, Male Medical Ward",2241
+378,,"Medical, Surgical And Allied Services",Chest Ward Coordinator's Room,2323
+379,,"Medical, Surgical And Allied Services",Eet,2357
+380,,"Medical, Surgical And Allied Services",E.N.T Ward Doctor's Room,2395
+381,,"Medical, Surgical And Allied Services",Endo Unit Conference Room,2431
+382,,"Medical, Surgical And Allied Services",Chest Hdu,2446
+383,Ms. Faiza,"Medical, Surgical And Allied Services",Medicine Office (Secretary),2447
+384,,"Medical, Surgical And Allied Services",Cardio Thoracic Surgery Office,2462
+385,,"Medical, Surgical And Allied Services",Ecg,2499
+386,,"Medical, Surgical And Allied Services",Anaethesia Conference Room,2511
+387,,"Medical, Surgical And Allied Services","Male Doctor Room, Male Medical Ward",2530
+388,,"Medical, Surgical And Allied Services",Gastroenterology Secretary's Room,2549
+389,,"Medical, Surgical And Allied Services",Executive Icu,2563
+390,,"Medical, Surgical And Allied Services","Female Doctor Room, Male Medical Ward",2638
+391,,"Medical, Surgical And Allied Services",Cardio Doctor's Room (Female),2663
+392,,"Medical, Surgical And Allied Services",Echo Doctors Room,2666
+393,,"Medical, Surgical And Allied Services",Cardio Coordinator's Room,2673
+394,,"Medical, Surgical And Allied Services",Pulmonary Function Test (Pft) Room,2708
+395,,"Medical, Surgical And Allied Services",Endo Unit Recovery Room,2740
+396,,"Medical, Surgical And Allied Services",Gastroenterology Doctor Female,2766
+397,,"Medical, Surgical And Allied Services",Gastroenterology Doctor Male,2781
+398,,"Medical, Surgical And Allied Services",Gastroenterology Coordinator's Room,2829
+399,,"Medical, Surgical And Allied Services",Cardio Doctor's Room (Male),2880
+400,,"Medical, Surgical And Allied Services",Medical Icu Adminstrator,2916
+401,,"Medical, Surgical And Allied Services",Medical Icu Billing Cordinator,2917
+402,,"Medical, Surgical And Allied Services","Medical Icu, Bay 1, Bed 1 To 9",2920
+403,,"Medical, Surgical And Allied Services",General Medicine Doctor Male,2922
+404,,"Medical, Surgical And Allied Services",General Medicine Doctor Female,2923
+405,,"Medical, Surgical And Allied Services","Medical Icu, Bay 2, Bed 10 To 13",2925
+406,,"Medical, Surgical And Allied Services",Chest Ward (Male Doctor's Room),2946
+407,,"Medical, Surgical And Allied Services",Cardio Secretary's Room,2948
+408,,"Medical, Surgical And Allied Services",Endo Unit Room 3 And Room 4,2954
+409,,"Medical, Surgical And Allied Services",Endo Unit Case Counter,2993
+410,,"Medical, Surgical And Allied Services",General Medicine Male Ward,2330  2230
+411,,"Medical, Surgical And Allied Services",General Medicine Female Ward,2332  2232
+412,,"Medical, Surgical And Allied Services",Cardiology Ward,2566  2360
+413,,"Medical, Surgical And Allied Services",Gastro And Endo Ward,2642  2236
+414,,"Medical, Surgical And Allied Services",C.C.U. Ii,2646  2260
+415,,"Medical, Surgical And Allied Services",Medical Icu Reception,2921  2919
+416,,"Medical, Surgical And Allied Services",General Medicine Consultant's Room ,2924  2631
+417,,"Medical, Surgical And Allied Services",Medical Hdu,2927  2926
+418,,"Medical, Surgical And Allied Services",Chest Icu,2945  2345
+419,,Nephrology Dept,Nephrology Dept,2637  2791
+420,,Nephrology Ward,Nephrology Private ,2288
+421,,Nephrology Ward,Dialysis Unit Coordinator,2306
+422,,Nephrology Ward,"Male Doctor Room, Nephrology Ward",2388
+423,,Nephrology Ward,Hod / Consultant Room,2637
+424,,Nephrology Ward,"Male Ward, Nephrology Ward",2688
+425,,Nephrology Ward,"Female Doctor Room, Nephrology Ward",2771
+426,,Nephrology Ward,"Resident Room, Nephrology Ward",2790
+427,,Nephrology Ward,Secretary Room Nephrology Ward,2791
+428,,Nephrology Ward,"Tutorial Room, Nephrology Ward",2856
+429,,Nephrology Ward,"Female Ward, Nephrology Ward",2859
+430,,Nephrology Ward,Faculty Lounge,2874
+431,,Nephrology Ward,Nephrology Hdu,2897
+432,,Nephrology Ward,Dialysis Unit 2,2918
+433,,Nephrology Ward,Nephrology Icu,2226  2098
+434,,Nephrology Ward,Dialysis Unit 1,2227  2327
+435,,Neuro Surgery Dept,Neuro Surgery Dept,2706
+436,,Neuro Surgery Ward,"Female Doctor Room, Neuro Surgery",2032
+437,,Neuro Surgery Ward,"Male Doctor Room, Neuro Surgery",2366
+438,,Neuro Surgery Ward,Coordinator And Secretary's Room,2439
+439,,Neuro Surgery Ward,Neuro Surgery Ward,2339  2095
+440,,Neuro Surgery Ward,Neuro Surgery Hdu,2647  2097
+441,,Neurology,"Adminstrator, Neurology",2418
+442,,Neurology,Eeg Lab,2509
+443,,Neurology,Conference Room Neurology,2532
+444,,Neurology,Emg Lab,2533
+445,,Neurology,Neurophysiology Reception,2534
+446,,Neurology,Speech Therapy,2605
+447,,Neurology Dept,Neurology Dept,2492  2301
+448,,Neurology Ward,"Consultant Room, Neurology Ward",2301
+449,,Neurology Ward,"Stroke Unit, Doctor's Room",2567
+450,,Neurology Ward,"Coordinator's Room, Neurology Ward",2831
+451,,Neurology Ward,Storke Unit,2231  2331
+452,,Neurology Ward,Neuro Medicine Ward,2367  2467
+453,Hammad,Neurosurgery & Dental,Departmental Secretary - Neurosurgery + Dental,2464
+454,Zeeshan,Nursing Administration,,3015
+455,,Nursing Dept,Nursing Office,2203
+456,,Nursing Dept,Oncall Nursing,2365
+457,,Nursing Dept,Manager Nursing,2504
+458,,Nursing Dept,"Controller Nursing Adminstration, Secretary",2715
+459,,Nursing Hostel Block (A),First Floor,2542
+460,,Nursing Hostel Block (A),Ground Floor,2472  2541
+461,,Nursing Hostel Block (A),Third Floor,2537  2544
+462,,Nursing Hostel Block (B),First Floor,2427
+463,,Nursing Hostel Block (B),Second Floor,2429
+464,,Nursing Hostel Block (B),Third Floor,2430
+465,Zahida,Nursing Hostel Block (B) Girls,Ground Floor,2473
+466,,Obs And Gynae,Consultant Room 1,2048
+467,,Obs And Gynae,"Tutorial Room, Obs And Gynae",2081
+468,,Obs And Gynae,Well Baby Clinic,2082
+469,,Obs And Gynae,General Ward Cordinator,2084
+470,,Obs And Gynae,"Senior Registrar Room,  Gynae",2087
+471,Reception,Obs And Gynae,"Hdu, Obs And Gynae",2268
+472,,Obs And Gynae,Faculty Area,2368
+473,,Obs And Gynae,Gynae Private Room Counter (New),2436
+474,,Obs And Gynae,"Labour Room, Obs And Gynae",2470
+475,,Obs And Gynae,Consultant Room 4,2636
+476,,Obs And Gynae,Consultant Room 2,2703
+477,,Obs And Gynae,"Coordinator's Room, Obs And Gynae",2770
+478,,Obs And Gynae,Hod ,2934
+479,,Obs And Gynae,"O.T, Security Guard",2938
+480,,Obs And Gynae,"Doctor Room, Obs And Gynae",2956
+481,,Obs And Gynae,Gynae Ward Counter (Old),2083  2084
+482,,Obs And Gynae,"O.T, Obs And Gynae",2568  2468
+483,,Obs And Gynae,Professor,2017
+484,,Obs And Gynae,Office Services Dept,2220  2042
+485,Mr. Shahid,Oncology Daycare,Day Care Incharge,2394
+486,,Oncology Ward,Support Center,2036
+487,,Oncology Ward,"Consultant Room, Oncology",2594
+488,,Oncology Ward,Day Care,2394 2494 2582
+489,Physio Information,Opd,B-Block ,2139
+490,Vascular,Opd,Block-Iii,2263
+491,Family Medicine,Opd,Wasc Basement,2773
+492,Medicine-Ii,Opd,Block-Iii,2927
+493,Gastro,Opd,Wasc Basement,3018
+494,Skin-Ii,Opd,J-Block,3020
+495,Opd Office,Opd,Wasc Ground Floor,3036
+496,Reheumatology,Opd,J-Block,3047
+497,Opd Supervisor (Rizwan),Opd,Wasc Ground Floor,3122
+498,Information,Opd,Wasc Ground Floor,2221 2521
+499,Chest,Opd,Wasc Ground Floor,2247 2708
+500,E.N.T,Opd,Block-Iii,2263 2792
+501,Eye,Opd,Wasc Basement,2266 2557
+502,Ortho,Opd,Block-Iii,2359 2259
+503,Plastic Surgery,Opd,Wasc Ground Floor,2450 2486
+504,Skin-I,Opd,J-Block,2517 2692
+505,Neuro Medicine,Opd,B-Block,2531 2534
+506,Dental,Opd,J-Block,2710 2278
+507,Cardiac,Opd,J-Block,3019 3162
+508,Information,Opd,J-Block,3113 2806
+509,Mr. Iqbal,Opd Office,"Co-Ordinator, Opd Office",2376
+510,Ms. Kiran,Opd Office,Head Of Dept.,2576
+511,,Opd Services,Opd Office,2713
+512,,Opd Services,Senior Manager Opd And Radiology Services,2714
+513,,Operation Theatures,"O.T Cardiac, Executive E-1",2560
+514,,Operation Theatures,"O.T Eye, Executive E-2",2561
+515,,Operation Theatures,"O.T, Executive E-3",2562
+516,,Operation Theatures,"O.T Executive, Surgeon's Room",2564
+517,,Operation Theatures,"O.T Executive, Anaesthesia Doctor's Room",2628
+518,,Operation Theatures,"O.T Executive, Recovery Room",2630
+519,,Operation Theatures,C.S.S.D Clean Area,2721
+520,,Operation Theatures,C.S.S.D Adminstrator Room,2724
+521,,Operation Theatures,C.S.S.D Sterile Area,2725
+522,,Operation Theatures,O.T 1 (G.S),2730
+523,,Operation Theatures,O.T Ii (G.S),2731
+524,,Operation Theatures,O.T Iii (Orthopedics Surgery),2732
+525,,Operation Theatures,O.T 4 (Neurosurgery Surgery),2733
+526,,Operation Theatures,O.T 5 (Emergency),2734
+527,,Operation Theatures,O.T 10 (Plastic Surgery),2735
+528,,Operation Theatures,O.T 9 (Paeds Surgery),2736
+529,,Operation Theatures,O.T 8 (E.N.T Surgery),2737
+530,,Operation Theatures,O.T 7 (Maxillofacial And Throacic Surgery),2738
+531,,Operation Theatures,O.T 6 (Urology ),2739
+532,,Operation Theatures,O.T Pantry,2749
+533,,Operation Theatures,O.T Instrument Room (Cssr),2752
+534,,Operation Theatures,O.T Day Care,2756
+535,,Operation Theatures,O.T Doctor's Lounge,2757
+536,,Operation Theatures,O.T Maintenance Room,2769
+537,,Operation Theatures,O.T Dress Counter,2783
+538,,Operation Theatures,"O.T Executive, Doctor's Room",2817
+539,,Operation Theatures,"O.T Executive, Technician's Room",2827
+540,,Operation Theatures,"O.T , Gastro Endoscopy",2350 2740 2954
+541,,Operation Theatures,O.T Gynae,2468  2568
+542,,Operation Theatures,O.T Reception Outdoor,2741  2742
+543,,Operation Theatures,O.T Reception Indoor,2743  2767
+544,,Operation Theatures,O.T Surgeon's Room,2744  2768
+545,,Operation Theatures,O.T Recovery Room,2747  2746
+546,Mubeen,Operation Theatures 2 Executive,,3188
+547,Bushra/Anum,Operation Theatures 2 Pharmacy,,3152
+548,Altaf / Bilal / Agha Tanveer,Operation Theatures Coplex Ii,,3192 3188
+549,Khuresheed ,Operation Theatures Recovery,,2747
+550,,Ophthalmology Dept,Ophthalmology Dept,2854  2266
+551,,Ophthalmology Ward,"Doctor Room, Ophthalmology Ward",2046
+552,,Ophthalmology Ward,"Secretary, Ophthalmology Dept",2939
+553,,Orthopedics Dept,Orthopedics Dept,2440  2359
+554,,Orthopedics Ward,"Coordinator's Room, Orthopedics Ward",2440
+555,,Orthopedics Ward,"Doctor Room, Orthopedics Ward",2640
+556,,Orthopedics Ward,Orthopedics Ward,2240  2340
+557,,Others,"Allied Bank, Liaquat National Hospital Branch",2041
+558,,Others,Baby Daycare,2086
+559,,Others,Staff Clinic,2347
+560,,Others,Photostat,2402
+561,,Others,"Coordinator , Cme And Outreach",2607
+562,,Others,Dispatch Dept,2612
+563,,Others,Medical And Surgical Appliances Shop,2668
+564,,Others,Optical Shop,2798
+565,,Others,Utility Store,2828
+566,,Others,"Secretary, Intership And Cme Committee",2903  2913
+567,Hira/Noman,Outreach Services,,3116
+568,,Paediatric Medicine Dept,Paediatric Medicine Dept,2529  2751
+569,,Paediatric Medicine Ward,Nursery,2229
+570,,Paediatric Medicine Ward,Paediatric Medicine Hdu,2329
+571,,Paediatric Medicine Ward,"Female Doctor Room, Paediatric Medicine Ward",2528
+572,,Paediatric Medicine Ward,Hod / Consultant Room,2529
+573,,Paediatric Medicine Ward,Paediatric Medicine Icu,2676
+574,,Paediatric Medicine Ward,Step Down,2844
+575,,Paediatric Medicine Ward,Paediatric Medicine Ward,2328  2228
+576,,Paediatric Medicine Ward,Paediatric Office,2902  2903
+577,,Paediatric Surgery Dept,Paediatric Surgery Dept,2463  2751
+578,,Paediatric Surgery Ward,"Coordinator's Room, Paediatric Surgery",2052
+579,,Paediatric Surgery Ward,"Doctor Room, Paediatric Surgery Ward",2099
+580,,Paediatric Surgery Ward,"Secretary, Paediatric Surgery Ward",2751
+581,,Paediatric Surgery Ward,Paediatric Surgery Ward,2837
+582,,Pathology Dept,Professor,2023
+583,,Pathology Dept,Demostrator (Female),2070
+584,,Pathology Dept,Laboratory,2072
+585,,Pathology Dept,Demostrator (Male),2073
+586,Lab Services,Pathology Dept,"Hod, Histopathology ",2076
+587,Mr. Zubair Ahmed,Payroll Department - Hr,Manager - Payroll Dept.,2307
+588,,Pharmacacology Dept,Professor (Hod),2019
+589,,Pharmacacology Dept,Assistant Professor,2064
+590,,Pharmacacology Dept,Associate Professor,2065
+591,,Pharmacacology Dept,Museum,2068
+592,,Pharmacacology Dept,Laboratory,2069
+593,Saima,Pharmacy Dept,,2258
+594,Farhana Sharif,Pharmacy Dept,,2658
+595,Zakir,Pharmacy Dept,,3039
+596,,Pharmacy Dept,Satellite 1,2044
+597,,Pharmacy Dept,Supervisior Pharmacy,2060
+598,,Pharmacy Dept,"Retail Pharmacy, S.W.A.C ",2061
+599,,Pharmacy Dept,Secretary's Room,2155
+600,,Pharmacy Dept,Training And Development Dept,2158
+601,,Pharmacy Dept,New Retail Pharmacy,2243
+602,,Pharmacy Dept,Staff Counter Pharmacy,2286
+603,,Pharmacy Dept,Satellite 3,2353
+604,,Pharmacy Dept,Compounding Area,2358
+605,,Pharmacy Dept,P.C.P Room,2586
+606,,Pharmacy Dept,Manager Pharmacy,2723
+607,Mahwis Jamil,Pharmacy Dept,Operation Theature Pharmacy,2762
+608,,Pharmacy Dept,New Orthopedics Retail Pharmacy,2891
+609,,Pharmacy Dept,Oncology Pharmacy,2941
+610,,Pharmacy Dept,Assistant Manager Pharmacy,2258  2722
+611,,Pharmacy Dept,Satellite 2,2354  2661
+612,,Pharmacy Dept,Central Pharmacy,2657  2658
+613,,Pharmacy Dept,Ivbp Pharmacy,2936  2294
+614,,Pharmacy Dept,Drug Information,2943  2758
+615,,Physiology Dept,Professor (Hod),2004
+616,,Physiology Dept,Associate Professor,2005
+617,,Physiology Dept,Laboratory,2010
+618,,Physiology Dept,"Book Shop, Lnmc",2043
+619,,Physiology Dept,Animal House,2616
+620,,Physiology Dept,Lnmc Canteen,2944
+621,,Physiology Dept,Girls Common Room,2995
+622,Infection Diseases (Covid),Physiotherapy Dept,Physiotherapy Information,2216
+623,,Physiotherapy Dept,Physiotherapy (Faculty Room),2477
+624,,Physiotherapy Dept,"Lecture Room,  School Of Physiotherapy",2512
+625,,Physiotherapy Dept,Physiotherapy Pump Room,2559
+626,,Physiotherapy Dept,Physiotherapy Opd,2928
+627,,Physiotherapy Dept,"Reception, School Of Physiotherapy",2950
+628,,Physiotherapy Dept,"Learning Resource Center, Physiotherapy Dept",2523  2443
+629,,Physiotherapy Dept,Orthotic And Prothesis Unit,2685  2668
+630,Manzar,Physiotherapy Dept,,2443
+631,,Plastic Surgery Ward,"Isolation Ward, Plastic Surgery Ward",2148
+632,,Plastic Surgery Ward,Plastic Surgery Hdu,2314
+633,,Plastic Surgery Ward,"Doctor Room, Plastic Surgery Ward",2481
+634,,Plastic Surgery Ward,"Coordinator's Room & Secretary, Plastic Surgery Ward",2694
+635,,Plastic Surgery Ward,"Dressing Room, Plastic Surgery Ward",2863
+636,,Plastic Surgery Ward,Plastic Surgery Ward,2452  2670
+637,,Principals,"Principal And Dean, L.N.H And M.C",2002  2001
+638,,Principals,"Principal, College Of Nursing",2150  2639
+639,,Principals,"Principal, School Of Physiotherapy",2316  2477
+640,,Principals,"Principal, School Of Diagnostic Lab Sciences",2585  2569
+641,,"Principals, Coordinator And ",Controller Billing And Recovery,2202
+642,Humaira Fazal,Psychatry Ward,,2690 3139
+643,,Psychiatry Ward,Counseling Room,2152
+644,,Psychiatry Ward,Psychiatry Ward,2441
+645,Junaid.Ahmed,Purchase - Genereal,,2960
+646,Jahanzeb.Khan,Purchase - Genereal,Senior Purchase Officer | Rubber Goods,2047
+647,Hina.Kousar,Purchase - Genereal ,Purchase Officer  | Equipment Import,2419
+648,Arshad.Malik,Purchase - Medicine,Deputy Manager Purchase | Pharmacy,2362
+649,Shahzad.Alam / M Rashid,Purchase Dept,Senior Purchase Officer | Pharmacy,2312
+650,Humanaz.Lodhi / M Mursalin / Anwar Shamim,Purchase Dept,Commerical Officer |Import Section,2611
+651,,Purchase Dept,Purchase Officer |  General Purchase,2635
+652,,Purchase Dept,Deputy Manager Purchase | General Purchase,2687
+653,,Purchase Dept,Purchase Officer |  General Purchase,2690
+654,Hira.Hasan / Mehmood / Fasim,Purchase Dept,Assistant Manager Purchase | Lab Chemicals,2889
+655,Zeeshan Ahmed,Purchase Dept,Purchase Officer | Stationery And Linen,2892
+656,Ather.Khan / M Farhan,Purchase Dept,Purchase Officer  | Equipment General,2959
+657,Mr. Tariq Burki,Purchase Office,Hod,2035
+658,Mr. Ather / Mr. Waqas / Hina Rehman / Khurram Khan,Purchase Office,Asisstant Manager- ,2420
+659,,Radiology,New Mri Room,2051
+660,,Radiology,"Consultant Radiology, Ultrasound Pelvis",2201
+661,,Radiology,Consultant Room / X-Ray Room,2224
+662,,Radiology,Ct Scan,2252
+663,,Radiology,Angiography Recovery,2285
+664,,Radiology,"Doctor's Room, X-Ray Dept",2324
+665,,Radiology,Mammography,2351
+666,,Radiology,Hod / Consultant Room,2380
+667,,Radiology,Old Mri Room,2383
+668,,Radiology,Mri Reception,2384
+669,Samina,Radiology,X-Ray Reception,2425
+670,,Radiology,Nuclear Medicine,2483
+671,,Radiology,Ultrasound Procedure Room # 1,2579
+672,,Radiology,Radiology Store,2580
+673,,Radiology,Lithotripsy Laboratory,2587
+674,,Radiology,Ultrasound Procedure Room # 3/4,2649
+675,,Radiology,Ultrasound Room # 5,2680
+676,,Radiology,Female Resident Room,2682
+677,,Radiology,"Senior Manager, Opd And Radiology Services",2683
+678,,Radiology,Radiology Supervisior,2754
+679,,Radiology,Radiology Reporting Room,2794
+680,,Radiology,Medical Transcription Room,2821
+681,,Radiology,Ultrasound Procedure Room,2838
+682,,Radiology,Angiography,2386  2285
+683,Humza ,Radiology,Ultrasound Dept.,2280
+684,Stanley / Danish / Furqan,Radiology,Ultrasound Dept.,2698
+685,,Radiology Dept,Radiology Dept,2683  2380
+686,,Research And Skill Development Center,Officer / Rsdc Reception,2437
+687,,Research And Skill Development Center,Programme Director,2697
+688,,Rheumatology Dept,Rheumatology Dept,2518  2447
+689,,School Of Diagnostic Lab Sciences (Sdls),School Of Diagnostic Lab Sciences (Sdls),2569
+690,,School Of Medical Technology,Assistant,2022
+691,,Secretary Hospital,Secretary Hospital,2300  2651
+692,,Security Dept,"Surgery Icu, Security Grill-1",2053
+693,,Security Dept,"Surgery Ward, Security",2059
+694,,Security Dept,Controll Room's Immediate Response,2077
+695,,Security Dept,Manager Security,2091
+696,,Security Dept,Adminstration Grill,2284
+697,,Security Dept,Staff Gate,2320
+698,,Security Dept,Gate (3),2433
+699,,Security Dept,Medical Grill,2466
+700,,Security Dept,Gate (1),2493
+701,,Security Dept,Paediatrics Ward,2538
+702,,Security Dept,O.T Grill,2588
+703,,Security Dept,Motorcycle Parking,2593
+704,,Security Dept,Security Officer,2614
+705,,Security Dept,Nursing Hostel Security Guard,2672
+706,,Security Dept,Dental Grill,2674
+707,,Security Dept,Executive Grill,2675
+708,,Security Dept,"Neuro Surgery Ward, Security",2830
+709,,Security Dept,Basement Grill,2833
+710,,Security Dept,Executive Parking,2847
+711,,Security Dept,"Nephrology Ward, Security",2851
+712,,Security Dept,Fire Officer,2879
+713,,Security Dept,Gate (2),2333  2313
+714,,Security Dept,Controll Room,2655  2814
+715,Salima Mehdi,Senior Citizen,,3199 3183
+716,,Social Services Dept,Manager Social Services,2390
+717,,Social Services Dept,Cash Recovery Coordinator,2391
+718,,Social Services Dept,Complaint Cell,2526
+719,,Social Services Dept,"Incharge, Social Services",2603
+720,,Social Services Dept,Welfare,2955
+721,,Social Services Dept,Cash Recovery Office,2903  2855
+722,Mr. Waqar,Special Ward I,Coordinator's Room,2465
+723,,Special Ward I,Doctor's Room,2681
+724,,Special Ward I,Special Ward 1,2287  2487
+725,,Special Ward II,Coordinator's Room,2558
+726,,Special Ward II,Special Ward Ii,2460  2461
+727,Mansoor Ali,Special Ward III,,2661
+728,,Special Ward III,Special Ward Iii,2242  2342
+729,,Special Ward III,Doctor's Room,2393  2026
+730,Mohsin Zahorr,Special Ward III,"Ward Incharge, Special Ward  Iii",2761
+731,,Statistics Dept,,2213
+732,Zakirullah,Store - Inventory,Inventory Assistant | Pharmacy Store,2045
+733,Tazeem.Ahmed,Store - Laboratory,Section Supervisior / Inventory Assistant | Lab Chemical,2615
+734,Kashif.Raheem / Zubair Ahmed,Store - Med. Equipments,Senior Inventory Officer | Inventory Officer Ii | Medical Consumables,2422
+735,Abdullah.Raza,Store - Pharmacy ,Inventory Officer Ii / Inventory Assistant | Inventory Reception,2200
+736,Ghazala.Ghayas,Store - Pharmacy ,,2218
+737,Muzaffar.Ahmed,Store - Pharmacy ,C.P Officer | C.P  / Indent Reporting,2283
+738,Nizar.Amirali / Syed Masoom,Store - Stationary,,2421
+739,Fareena Parekh,Store - Stationary (Publications),,2038
+740,,Surgical Intensive Care Unit And Hdu,"New Surgical Intensive Care Unit 1, Doctor Room ",2297
+741,,Surgical Intensive Care Unit And Hdu,"Surgical Intensive Care Unit 1, Consultant Room",2539
+742,,Surgical Intensive Care Unit And Hdu,Surgical Hdu,2535  2947
+743,,Surgical Intensive Care Unit And Hdu,"Surgical Intensive Care Unit 1, Counter",2536  2800
+744,,Telecommunication Dept,Telecommunication Store,2055
+745,,Telecommunication Dept,Telecommunication Complaints,2522
+746,,Telecommunication Dept,Telecommunication Techician's Room,2822
+747,,Telecommunication Dept,Switch Room Telecommunication,2991
+748,Mr. Imran,Telecommunication Dept.,Manager,2295
+749,Mohsin,Telecommunication Dept.,"Co-Ordinator For Sms, Email & Calls",2601
+750,Moeenuddin,Time Office,"Assistant Manager, Time Office",2238
+751,M.Akhter,Time Office,Housekeeping / Time Office,2338
+752,,Transport Dept,Transport,2881  2489
+753,Nihal,Urology Department,Secretary Urology,2695
+754,,Urology Department,"Doctor Room, Urology Ward",2488
+755,,Urology Department,"Research Room, Urology Ward",2868
+756,,Urology Department,Urology Ward,2233  2334
+757,,Urology Dept,Urology Dept,2233  2868
+758,Asim/Abbas,,,2689
+759,Azeem,It,DEO,5555
+760,-,Information technology ,Application support coordinator ,3210
